@@ -10,7 +10,10 @@ To implement First-Come-First-Serve (FCFS) Scheduling
 Start the process Accept the number of processes in the ready queue For each process in the ready queue, do the following: Accept the process ID and burst time Calculate the waiting time for the current process Calculate the turnaround time for the current process Display the process ID, burst time, waiting time and turnaround time for the current process Calculate the average waiting time and average turnaround time Stop the process
 
 ## PROGRAM:
-
+```
+DEVELOPED BY:A.J.PRANAV
+REG NO:212222230107
+```
 ```
 # Get the number of processes from the user
 n = int(input("Enter number of processes: "))
